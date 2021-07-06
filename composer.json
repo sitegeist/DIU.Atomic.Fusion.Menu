@@ -3,12 +3,8 @@
     "type": "neos-plugin",
     "description": "Atomic fusion menu implementation",
     "require": {
-        "neos/neos": ">=3.3",
-        "neos/fusion-afx": "1.*"
-    },
-    "suggest": {
-        "neos/fusion-afx": "*"
-    },
+        "neos/neos": "^5.0 || ^7.0"        
+    },    
     "license": "GPL-3.0-or-later",
     "authors": [
         {
